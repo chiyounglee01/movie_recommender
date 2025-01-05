@@ -18,3 +18,43 @@ MovieLens is a recommender system that was developed by GroupLens, a computer sc
 6. Handling the cold start problem with content-based filtering
 7. Dimensionality reduction with matrix factorization
 
+### Results for Collaborative Filtering Model
+
+**Below are the Top 10 movies recommended for users who liked "Toy Story" using the Collaborative Filtering model.**
+
+1. Toy Story 2 (1999)
+2. Mission: Impossible (1996)
+3. Independence Day (a.k.a. ID4) (1996)
+4. Bug's Life, A (1998)
+5. Nutty Professor, The (1996)
+6. Willy Wonka & the Chocolate Factory (1971)
+7. Babe (1995)
+8. Groundhog Day (1993)
+9. Mask, The (1994)
+10. Back to the Future
+
+The recommendation system seems to be working well as it has recommended family friendly movies from the 90s. These recommendations are based solely on user-item ratings.
+
+### Results for Collaborative Filtering Model
+
+**Below are the Top 10 movies recommended for users who liked "Toy Story" using the Content Filtering model.**
+
+1. Antz (1998)
+2. Toy Story 2 (1999)
+3. Adventures of Rocky and Bullwinkle, The (2000)
+4. Emperor's New Groove, The (2000)
+5. Monsters, Inc. (2001)
+6. Wild, The (2006)
+7. Shrek the Third (2007)
+8. Tale of Despereaux, The (2008)
+9. Asterix and the Vikings (Astérix et les Viking...
+10. Turbo (2013)
+
+The recommendation system seems to be working as the movies recommended are family friendly animation films.
+
+### Conclusion
+
+Both the collaborative filtering and content filtering models were decent at recommending 10 most similar movies of a single movie. However, a drawback of this model and data is that there is no concrete way to measure evaluation metrics. If this was used in the real world, a good way to measure the effectiveness of this model would be to do an A/B test to see if the model was effective in increasing user viewing time or user engagement. However, due to the limitations of this project, it was not possible to do such a test.
+
+
+
