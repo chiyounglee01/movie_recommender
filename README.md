@@ -1,4 +1,4 @@
-# Building a Movie Recommender using the Movie Lens Dataset
+# Building a Movie Recommender Using the Movie Lens Dataset
 
 **In this project, we will explore two types of recommender systems: 1) collaborative filtering, and 2) content-based filtering. We will build our own recommendation system using the [MovieLens](https://movielens.org/home) dataset in Python.**
 
