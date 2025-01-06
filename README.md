@@ -23,16 +23,16 @@ MovieLens is a recommender system that was developed by GroupLens, a computer sc
 **Below are the Top 10 movies recommended for users who liked "Toy Story" using the Collaborative Filtering model.**
 
 1. Toy Story 2 (1999)
-2. Mission: Impossible (1996)
+2. Jurassic Park (1993)
 3. Independence Day (a.k.a. ID4) (1996)
-4. Bug's Life, A (1998)
-5. Nutty Professor, The (1996)
-6. Willy Wonka & the Chocolate Factory (1971)
-7. Babe (1995)
-8. Groundhog Day (1993)
-9. Mask, The (1994)
-10. Back to the Future
-
+4. Star Wars: Episode IV - A New Hope (1977)
+5. Forrest Gump (1994)
+6. Lion King, The (1994)
+7. Star Wars: Episode VI - Return of the Jedi (1983)
+8. Mission: Impossible (1996)
+9. Groundhog Day (1993)
+10. Back to the Future (1985)
+    
 The recommendation system seems to be working well as it has recommended family friendly movies from the 90s. These recommendations are based solely on user-item ratings.
 
 ### Results for Collaborative Filtering Model
