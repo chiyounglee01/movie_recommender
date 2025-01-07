@@ -35,7 +35,7 @@ MovieLens is a recommender system that was developed by GroupLens, a computer sc
     
 The recommendation system seems to be working well as it has recommended family friendly movies from the 90s. These recommendations are based solely on user-item ratings.
 
-### Results for Collaborative Filtering Model
+### Results for Content Filtering Model
 
 **Below are the Top 10 movies recommended for users who liked "Toy Story" using the Content Filtering model.**
 
